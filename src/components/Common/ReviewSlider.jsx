@@ -85,9 +85,7 @@ function ReviewSlider() {
 
   return (
     <div className="text-white w-11/12 max-w-maxContent mx-auto my-16">
-      <h2 className="text-3xl font-semibold text-center mb-10">
-        Reviews from other learners
-      </h2>
+
 
       <Swiper
         modules={[Autoplay, Pagination]}
